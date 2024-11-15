@@ -28,6 +28,9 @@ Here is an explanation of each property:
 - `password` : App password from Settings > Advanced > App Passwords
 - `interval` : Number of seconds to wait between checking this feed for changes
 
+Once you have set your config, use `bun run main.js` to run the program.
+It should have no issues restarting where it left off without duplicating posts.
+
 Here is a more complex example that handles multiple feeds and multiple accounts. This shows the config for 2 accounts - one for NYT and one for reddit.
 ```json
 [
