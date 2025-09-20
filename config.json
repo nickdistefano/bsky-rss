@@ -1,9 +1,9 @@
 [
     {
-        "id" : "NYT Home Page",
-        "url" : "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-        "identifier" : "example.bsky.social",
-        "password" : "abcd-efgh-ijkl-mnop",
+        "id" : "AWG SquareSpace News Feed",
+        "url" : "https://atlanticworks.org/news?format=rss",
+        "identifier" : "atlanticworks.bsky.social",
+        "password" : "f6ns-2l3f-ysw2-gagm",
         "interval" : 300
     }
 ]
